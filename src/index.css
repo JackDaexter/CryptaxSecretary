@@ -1,0 +1,25 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  margin: 0px;
+  top: 0px;
+  /* max-width: 38rem;*/
+  /* padding: 1rem; */
+}
+
+#inBanner{
+  color: white;
+}
+
+#analysePart{
+  padding: 5px;
+}
+
+img{
+  size: 1px;
+}
+
+#mainBody{
+  padding-left: 25%;
+  background: linear-gradient(70deg,#ff00cc,#333399);
+  padding-bottom: 5px;
+}
